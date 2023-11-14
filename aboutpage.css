@@ -20,31 +20,26 @@
     background-color: #ecee81;
     color: black;
   }
-body {
-  background-color: #8ddfcb;
-  padding: 20px;
-  margin: 20px;
+h1 {
+    color: #6090ea;
+    text-align: center;
 }
-.img-responsive {
-  display: flex;
-  height: auto;
-  justify-content: center;
+body {
+    background-color: #8ddfcb;
+}
+.column1 {
+    background-color: #ECEE81;
+    float: left;
+    padding: 10px;
+    margin: 10px;
+}
+.column2 {
+    background-color: #EDB7ED;
+    float: right;
+    padding: 10px;
+    margin: 10px;
 }
 img {
-  width: 200px;
-  height: 220px;
-  padding: 10px;
+    width: 150px;
+    height: 200px;
 }
-#p2 {
-  margin: 10px;
-  padding: 20px;
-  }
-#p3 {
-  margin: 10px;
-  padding: 20px;
-  }
-h1 {
-  text-align: center;
-  margin: 10px;
-  color: #6069ea;
-  }
