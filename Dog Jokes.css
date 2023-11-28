@@ -19,51 +19,32 @@
 .topnav a.active {
     background-color: #ecee81;
     color: black;
-}
+  }
 
 
 
 
 
+  h1 {
+    text-align: center;
+    margin: 10px;
+    color: black;
+  }
 
-
-
+  
 body {
-    background-color: #8ddfcb;
-   
+  background-color: #8ddfcb;
+  padding: 20px;
+  margin: 20px;
 }
-
-
-
-#content {
-	background:  #8DDFCB;
-}
-
 
 .img-responsive {
-  display: flex;
-  height: auto;
-  justify-content: center;
-}
-
-
-img {
-    width: 200px;
-    height: 200px;
-
+    display: flex;
+    height: auto;
+    justify-content: center;
   }
-#content h2 {
-	margin: 0;
-	padding: 0;
-}
-
-#content p {
-	margin: 0;
-	padding: 0;
-}
-
-h1,h2 {
-	margin: 0;
-	padding: 0;
-}
-
+  img {
+    width: 500px;
+    height: 500px;
+    padding: 10px;
+  }
